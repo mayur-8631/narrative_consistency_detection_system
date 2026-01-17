@@ -1,0 +1,61 @@
+id,decision,binary_prediction,reason
+95,CONTRADICTORY,0,Very low semantic overlap | Caption provides supporting context | Negation weakens consistency
+136,CONSISTENT,1,Partial semantic overlap detected | Caption provides supporting context
+59,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+60,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+124,CONTRADICTORY,0,Very low semantic overlap | Caption provides supporting context | Negation weakens consistency
+111,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+135,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+27,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+110,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+42,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+56,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+80,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+28,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+101,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+91,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+24,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+119,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+93,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+72,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+16,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+30,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+97,CONSISTENT,1,Partial semantic overlap detected | Caption provides supporting context | Negation weakens consistency
+22,CONTRADICTORY,0,Very low semantic overlap | Caption is missing | Negation weakens consistency
+53,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+58,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+81,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+47,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+7,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+121,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+129,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+51,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+127,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+133,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+52,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+114,CONTRADICTORY,0,Very low semantic overlap | Caption provides supporting context | Negation weakens consistency
+2,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+33,CONTRADICTORY,0,Very low semantic overlap | Caption is missing | Negation weakens consistency
+15,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+82,CONTRADICTORY,0,Very low semantic overlap | Caption is missing | Negation weakens consistency
+37,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+3,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+103,CONTRADICTORY,0,Very low semantic overlap | Caption provides supporting context | Negation weakens consistency
+94,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+85,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+21,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+49,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+140,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+64,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+131,CONTRADICTORY,0,Very low semantic overlap | Caption provides supporting context | Negation weakens consistency
+61,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+86,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+38,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+132,CONTRADICTORY,0,Very low semantic overlap | Caption provides supporting context | Negation weakens consistency
+77,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+70,CONTRADICTORY,0,Very low semantic overlap | Caption is missing
+115,CONTRADICTORY,0,Very low semantic overlap | Caption provides supporting context | Negation weakens consistency
+78,CONTRADICTORY,0,Very low semantic overlap | Caption is missing | Negation weakens consistency
+87,CONSISTENT,1,Very low semantic overlap | Caption provides supporting context
+75,CONTRADICTORY,0,Very low semantic overlap | Caption is missing | Negation weakens consistency
+44,CONTRADICTORY,0,Very low semantic overlap | Caption is missing | Negation weakens consistency
